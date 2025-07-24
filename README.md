@@ -55,7 +55,7 @@ git --version
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/your-username/orderbook-3d-visualizer.git
+git clone https://github.com/AnkithBangre/Orderbook-Depth-3D-Visualize.git.git
 cd orderbook-3d-visualizer
 \`\`\`
 
