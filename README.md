@@ -55,8 +55,8 @@ git --version
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/AnkithBangre/Orderbook-Depth-3D-Visualize.git
-cd orderbook-3d-visualizer
+git clone https://github.com/AnkithBangre/Orderbook-Depth-3D-Visualizer.git
+cd Orderbook-Depth-3D-Visualizer
 \`\`\`
 
 ### 2. Install Dependencies
