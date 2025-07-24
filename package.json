@@ -1,0 +1,68 @@
+{
+  "name": "orderbook-3d-visualizer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A sophisticated 3D cryptocurrency orderbook visualization tool with real-time updates and pressure zone analysis",
+  "keywords": [
+    "cryptocurrency",
+    "orderbook",
+    "3d-visualization",
+    "trading",
+    "react-three-fiber",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/orderbook-3d-visualizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/orderbook-3d-visualizer/issues"
+  },
+  "homepage": "https://github.com/your-username/orderbook-3d-visualizer#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "type-check": "tsc --noEmit",
+    "clean": "rm -rf .next out",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-slider": "^1.1.2",
+    "@radix-ui/react-switch": "^1.0.3",
+    "@react-three/drei": "^9.88.13",
+    "@react-three/fiber": "^8.15.11",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.294.0",
+    "next": "14.0.4",
+    "next-themes": "^0.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.1.0",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.4",
+    "@types/react": "^18.2.38",
+    "@types/react-dom": "^18.2.17",
+    "@types/three": "^0.158.3",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.54.0",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.6",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
