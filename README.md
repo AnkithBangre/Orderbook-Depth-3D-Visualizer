@@ -55,7 +55,7 @@ git --version
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/AnkithBangre/Orderbook-Depth-3D-Visualize.git.git
+git clone https://github.com/AnkithBangre/Orderbook-Depth-3D-Visualize.git
 cd orderbook-3d-visualizer
 \`\`\`
 
@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, please:
 
-1. Check the [Issues](https://github.com/AnkithBangre/orderbook-3d-visualizer/issues) page
+1. Check the [Issues](https://github.com/AnkithBangre/Depth-3D-Visualizer/issues) page
 2. Create a new issue with detailed description
 3. Include browser version and error messages
 4. Provide steps to reproduce the problem
