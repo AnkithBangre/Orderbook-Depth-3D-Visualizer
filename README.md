@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, please:
 
-1. Check the [Issues](https://github.com/your-username/orderbook-3d-visualizer/issues) page
+1. Check the [Issues](https://github.com/AnkithBangre/orderbook-3d-visualizer/issues) page
 2. Create a new issue with detailed description
 3. Include browser version and error messages
 4. Provide steps to reproduce the problem
